@@ -1,0 +1,16 @@
+{
+    "builds": [
+        {
+            "path": "resolc.wasm+0.1.0-dev.12+commit.21a5679f",
+            "name": "resolc.wasm",
+            "version": "0.1.0-dev.12",
+            "build": "commit.21a5679f",
+            "longVersion": "0.1.0-dev.12+commit.21a5679f",
+            "url": "https://github.com/paritytech/revive-workflow-test/releases/download/v0.1.0-dev.12/resolc.wasm"
+        }
+    ],
+    "releases": {
+        "0.1.0-dev.12": "resolc.wasm+0.1.0-dev.12+commit.21a5679f"
+    },
+    "latestRelease": "0.1.0-dev.12"
+}
