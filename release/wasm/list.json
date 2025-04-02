@@ -1,0 +1,18 @@
+{
+    "builds": [
+        {
+            "path": "resolc_web.js+0.1.0-dev.15+commit.5c4d16fa",
+            "name": "resolc_web.js",
+            "version": "0.1.0-dev.15",
+            "build": "commit.5c4d16fa",
+            "longVersion": "0.1.0-dev.15+commit.5c4d16fa",
+            "url": "https://github.com/paritytech/revive-workflow-test/releases/download/v0.1.0-dev.15/resolc_web.js",
+            "firstSolcVersion": "0.8.0",
+            "lastSolcVersion": "0.8.29"
+        }
+    ],
+    "releases": {
+        "0.1.0-dev.15": "resolc_web.js+0.1.0-dev.15+commit.5c4d16fa"
+    },
+    "latestRelease": "0.1.0-dev.15"
+}
