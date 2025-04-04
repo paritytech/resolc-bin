@@ -19,11 +19,22 @@
             "url": "https://github.com/paritytech/revive-workflow-test/releases/download/v0.1.0-dev.18/resolc-x86_64-unknown-linux-musl",
             "firstSolcVersion": "0.8.0",
             "lastSolcVersion": "0.8.29"
+        },
+        {
+            "path": "resolc-x86_64-unknown-linux-musl+0.1.0-dev.20+commit.21b59abd",
+            "name": "resolc-x86_64-unknown-linux-musl",
+            "version": "0.1.0-dev.20",
+            "build": "commit.21b59abd",
+            "longVersion": "0.1.0-dev.20+commit.21b59abd",
+            "url": "https://github.com/paritytech/revive-workflow-test/releases/download/v0.1.0-dev.20/resolc-x86_64-unknown-linux-musl",
+            "firstSolcVersion": "0.8.0",
+            "lastSolcVersion": "0.8.29"
         }
     ],
     "releases": {
         "0.1.0-dev.17": "resolc-x86_64-unknown-linux-musl+0.1.0-dev.17+commit.6bcd04b2",
-        "0.1.0-dev.18": "resolc-x86_64-unknown-linux-musl+0.1.0-dev.18+commit.f1e51fda"
+        "0.1.0-dev.18": "resolc-x86_64-unknown-linux-musl+0.1.0-dev.18+commit.f1e51fda",
+        "0.1.0-dev.20": "resolc-x86_64-unknown-linux-musl+0.1.0-dev.20+commit.21b59abd"
     },
-    "latestRelease": "0.1.0-dev.18"
+    "latestRelease": "0.1.0-dev.20"
 }
