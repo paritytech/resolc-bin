@@ -1,0 +1,18 @@
+{
+    "builds": [
+        {
+            "name": "resolc-universal-apple-darwin",
+            "version": "0.1.0-dev.23",
+            "build": "commit.071d8253",
+            "longVersion": "0.1.0-dev.23+commit.071d8253",
+            "url": "https://github.com/paritytech/revive-workflow-test/releases/download/v0.1.0-dev.23/resolc-universal-apple-darwin",
+            "sha256": "0071ce6b239ac4d924b52e9c5ea7e881462c31ecfd33aa4f92df293a267f6be2",
+            "firstSolcVersion": "0.8.0",
+            "lastSolcVersion": "0.8.29"
+        }
+    ],
+    "releases": {
+        "0.1.0-dev.23": "resolc-universal-apple-darwin+0.1.0-dev.23+commit.071d8253"
+    },
+    "latestRelease": "0.1.0-dev.23"
+}
