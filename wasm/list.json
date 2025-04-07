@@ -9,10 +9,21 @@
             "sha256": "665c28ab67c489eb44f792b076ec416dde71e0ddeccaf05a5a6dfab66d8f7b60",
             "firstSolcVersion": "0.8.0",
             "lastSolcVersion": "0.8.29"
+        },
+        {
+            "name": "resolc_web.js",
+            "version": "0.1.0-dev.24",
+            "build": "commit.811a8904",
+            "longVersion": "0.1.0-dev.24+commit.811a8904",
+            "url": "https://github.com/paritytech/revive-workflow-test/releases/download/v0.1.0-dev.24/resolc_web.js",
+            "sha256": "6497e2a6fbe00ad0ff567d4472f8009c6cfee717b370efacb97f89590507ca67",
+            "firstSolcVersion": "0.8.0",
+            "lastSolcVersion": "0.8.29"
         }
     ],
     "releases": {
-        "0.1.0-dev.23": "resolc_web.js+0.1.0-dev.23+commit.071d8253"
+        "0.1.0-dev.23": "resolc_web.js+0.1.0-dev.23+commit.071d8253",
+        "0.1.0-dev.24": "resolc_web.js+0.1.0-dev.24+commit.811a8904"
     },
-    "latestRelease": "0.1.0-dev.23"
+    "latestRelease": "0.1.0-dev.24"
 }

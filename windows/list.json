@@ -9,10 +9,21 @@
             "sha256": "c87fd7b0aa2ef8f0f08edf32e5e6c128f970ba1c8586107fcf6f6ddc250a7893",
             "firstSolcVersion": "0.8.0",
             "lastSolcVersion": "0.8.29"
+        },
+        {
+            "name": "resolc-x86_64-pc-windows-msvc.exe",
+            "version": "0.1.0-dev.24",
+            "build": "commit.811a8904",
+            "longVersion": "0.1.0-dev.24+commit.811a8904",
+            "url": "https://github.com/paritytech/revive-workflow-test/releases/download/v0.1.0-dev.24/resolc-x86_64-pc-windows-msvc.exe",
+            "sha256": "9c941b0bf5993853510f5a491fe2ad817bf8daee23ccd107aad3ec2bff2ab90f",
+            "firstSolcVersion": "0.8.0",
+            "lastSolcVersion": "0.8.29"
         }
     ],
     "releases": {
-        "0.1.0-dev.23": "resolc-x86_64-pc-windows-msvc.exe+0.1.0-dev.23+commit.071d8253"
+        "0.1.0-dev.23": "resolc-x86_64-pc-windows-msvc.exe+0.1.0-dev.23+commit.071d8253",
+        "0.1.0-dev.24": "resolc-x86_64-pc-windows-msvc.exe+0.1.0-dev.24+commit.811a8904"
     },
-    "latestRelease": "0.1.0-dev.23"
+    "latestRelease": "0.1.0-dev.24"
 }

@@ -9,10 +9,21 @@
             "sha256": "93655117180a9118bcf5216312292a3a8b60b33d5b9f15056053ea3cb5a26bcb",
             "firstSolcVersion": "0.8.0",
             "lastSolcVersion": "0.8.29"
+        },
+        {
+            "name": "resolc-x86_64-unknown-linux-musl",
+            "version": "0.1.0-dev.24",
+            "build": "commit.811a8904",
+            "longVersion": "0.1.0-dev.24+commit.811a8904",
+            "url": "https://github.com/paritytech/revive-workflow-test/releases/download/v0.1.0-dev.24/resolc-x86_64-unknown-linux-musl",
+            "sha256": "0955692231fdd27074e68b2729355ea6c88d2d372abfc4a2e98a043d83df9f15",
+            "firstSolcVersion": "0.8.0",
+            "lastSolcVersion": "0.8.29"
         }
     ],
     "releases": {
-        "0.1.0-dev.23": "resolc-x86_64-unknown-linux-musl+0.1.0-dev.23+commit.071d8253"
+        "0.1.0-dev.23": "resolc-x86_64-unknown-linux-musl+0.1.0-dev.23+commit.071d8253",
+        "0.1.0-dev.24": "resolc-x86_64-unknown-linux-musl+0.1.0-dev.24+commit.811a8904"
     },
-    "latestRelease": "0.1.0-dev.23"
+    "latestRelease": "0.1.0-dev.24"
 }
