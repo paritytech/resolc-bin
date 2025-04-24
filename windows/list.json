@@ -9,10 +9,21 @@
             "sha256": "8d6d7a7f505936dfbf4a93e66325f8542d23fe0b6608584553079b3b1b413fdb",
             "firstSolcVersion": "0.8.0",
             "lastSolcVersion": "0.8.29"
+        },
+        {
+            "name": "resolc-x86_64-pc-windows-msvc.exe",
+            "version": "0.1.0-dev.14",
+            "build": "commit.f6a412ee",
+            "longVersion": "0.1.0-dev.14+commit.f6a412ee",
+            "url": "https://github.com/paritytech/revive/releases/download/v0.1.0-dev.14/resolc-x86_64-pc-windows-msvc.exe",
+            "sha256": "06f676261b1eb70fd5f0dd5ac60db07fd853cd458b0f6ad66c9fceba278e76b7",
+            "firstSolcVersion": "0.8.0",
+            "lastSolcVersion": "0.8.29"
         }
     ],
     "releases": {
-        "0.1.0-dev.13": "resolc-x86_64-pc-windows-msvc.exe+0.1.0-dev.13+commit.ad331534"
+        "0.1.0-dev.13": "resolc-x86_64-pc-windows-msvc.exe+0.1.0-dev.13+commit.ad331534",
+        "0.1.0-dev.14": "resolc-x86_64-pc-windows-msvc.exe+0.1.0-dev.14+commit.f6a412ee"
     },
-    "latestRelease": "0.1.0-dev.13"
+    "latestRelease": "0.1.0-dev.14"
 }
