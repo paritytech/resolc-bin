@@ -1,0 +1,18 @@
+{
+    "builds": [
+        {
+            "name": "resolc-web.js",
+            "version": "0.3.0-nightly.2025.07.08",
+            "build": "commit.7c932f71",
+            "longVersion": "0.3.0-nightly.2025.07.08+commit.7c932f71",
+            "url": "https://github.com/paritytech/revive/actions/runs/16131794338/artifacts/3482051920",
+            "sha256": "281b416a8dedbd70ef18550d08b9f01636e1bb5450a68ff3a656d3815a8e1b65",
+            "firstSolcVersion": "0.8.0",
+            "lastSolcVersion": "0.8.30"
+        }
+    ],
+    "releases": {
+        "0.3.0-nightly.2025.07.08": "resolc-web.js+0.3.0-nightly.2025.07.08+commit.7c932f71"
+    },
+    "latestRelease": "0.3.0-nightly.2025.07.08"
+}

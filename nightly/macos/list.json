@@ -1,0 +1,18 @@
+{
+    "builds": [
+        {
+            "name": "resolc-universal-apple-darwin",
+            "version": "0.3.0-nightly.2025.07.08",
+            "build": "commit.7c932f71",
+            "longVersion": "0.3.0-nightly.2025.07.08+commit.7c932f71",
+            "url": "https://github.com/paritytech/revive/actions/runs/16131794338/artifacts/3482036742",
+            "sha256": "4c3a6c5079a06245c5f9e07a25f951ff3c04a9b5f3f8175062124d863e69a459",
+            "firstSolcVersion": "0.8.0",
+            "lastSolcVersion": "0.8.30"
+        }
+    ],
+    "releases": {
+        "0.3.0-nightly.2025.07.08": "resolc-universal-apple-darwin+0.3.0-nightly.2025.07.08+commit.7c932f71"
+    },
+    "latestRelease": "0.3.0-nightly.2025.07.08"
+}
