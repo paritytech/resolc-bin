@@ -79,6 +79,16 @@
             "sha256": "8f6fa87e01f32730f9cb7e74a2c050d51d338cffb624ace0005cfd27f59f4931",
             "firstSolcVersion": "0.8.0",
             "lastSolcVersion": "0.8.30"
+        },
+        {
+            "name": "resolc_web.js",
+            "version": "0.4.1",
+            "build": "commit.20908308",
+            "longVersion": "0.4.1+commit.20908308",
+            "url": "https://github.com/paritytech/revive/releases/download/v0.4.1/resolc_web.js",
+            "sha256": "8970a7ae1091358f7328744dd203df8b64aff17accc31b1c05f04a1b8b61ba80",
+            "firstSolcVersion": "0.8.0",
+            "lastSolcVersion": "0.8.30"
         }
     ],
     "releases": {
@@ -89,7 +99,8 @@
         "0.1.0": "resolc_web.js+0.1.0+commit.4d659ac2",
         "0.2.0": "resolc_web.js+0.2.0+commit.e94432ea",
         "0.3.0": "resolc_web.js+0.3.0+commit.ed608699",
-        "0.4.0": "resolc_web.js+0.4.0+commit.a57352f9"
+        "0.4.0": "resolc_web.js+0.4.0+commit.a57352f9",
+        "0.4.1": "resolc_web.js+0.4.1+commit.20908308"
     },
-    "latestRelease": "0.4.0"
+    "latestRelease": "0.4.1"
 }
