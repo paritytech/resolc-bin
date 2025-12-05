@@ -349,6 +349,16 @@
             "sha256": "d359907b63bee4be023970683881abdcc1b52c4d419770afb75b655266cfc70f",
             "firstSolcVersion": "0.8.0",
             "lastSolcVersion": "0.8.30"
+        },
+        {
+            "name": "resolc-x86_64-pc-windows-msvc",
+            "version": "0.5.0-nightly.2025.12.5",
+            "build": "commit.d0c10e6d",
+            "longVersion": "0.5.0-nightly.2025.12.5+commit.d0c10e6d",
+            "url": "https://github.com/paritytech/revive/actions/runs/19949729807/artifacts/4772072502",
+            "sha256": "83ca24acb7345df55c050094492d5aee1302c65b018062141920ccd6b9023e44",
+            "firstSolcVersion": "0.8.0",
+            "lastSolcVersion": "0.8.30"
         }
     ],
     "releases": {
@@ -386,7 +396,8 @@
         "0.5.0-nightly.2025.11.30": "resolc-x86_64-pc-windows-msvc+0.5.0-nightly.2025.11.30+commit.94b14b07",
         "0.5.0-nightly.2025.12.2": "resolc-x86_64-pc-windows-msvc+0.5.0-nightly.2025.12.2+commit.e7e40a0d",
         "0.5.0-nightly.2025.12.3": "resolc-x86_64-pc-windows-msvc+0.5.0-nightly.2025.12.3+commit.a9ccb1f9",
-        "0.5.0-nightly.2025.12.4": "resolc-x86_64-pc-windows-msvc+0.5.0-nightly.2025.12.4+commit.45ceab7d"
+        "0.5.0-nightly.2025.12.4": "resolc-x86_64-pc-windows-msvc+0.5.0-nightly.2025.12.4+commit.45ceab7d",
+        "0.5.0-nightly.2025.12.5": "resolc-x86_64-pc-windows-msvc+0.5.0-nightly.2025.12.5+commit.d0c10e6d"
     },
-    "latestRelease": "0.5.0-nightly.2025.12.4"
+    "latestRelease": "0.5.0-nightly.2025.12.5"
 }
