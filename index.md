@@ -581,6 +581,16 @@ The information is synced with the [resolc-bin GitHub repository](https://github
     },
     {
       "name": "resolc-x86_64-unknown-linux-musl",
+      "version": "0.6.0-nightly.2026.1.14",
+      "build": "commit.28506563",
+      "longVersion": "0.6.0-nightly.2026.1.14+commit.28506563",
+      "url": "https://github.com/paritytech/revive/actions/runs/20979139386/artifacts/5120840956",
+      "sha256": "3d8aa8f28d3dbfcb5093bdb701066d5102503f3b098edf15edec2759aa37700d",
+      "firstSolcVersion": "0.8.0",
+      "lastSolcVersion": "0.8.33"
+    },
+    {
+      "name": "resolc-x86_64-unknown-linux-musl",
       "version": "0.6.0-nightly.2026.1.13",
       "build": "commit.c1ce984c",
       "longVersion": "0.6.0-nightly.2026.1.13+commit.c1ce984c",
@@ -1042,6 +1052,7 @@ The information is synced with the [resolc-bin GitHub repository](https://github
   ],
   "releases": {
     "0.6.0-nightly.2026.1.9": "resolc-x86_64-unknown-linux-musl+0.6.0-nightly.2026.1.9+commit.81ce3067",
+    "0.6.0-nightly.2026.1.14": "resolc-x86_64-unknown-linux-musl+0.6.0-nightly.2026.1.14+commit.28506563",
     "0.6.0-nightly.2026.1.13": "resolc-x86_64-unknown-linux-musl+0.6.0-nightly.2026.1.13+commit.c1ce984c",
     "0.5.0-nightly.2026.1.8": "resolc-x86_64-unknown-linux-musl+0.5.0-nightly.2026.1.8+commit.4c85a311",
     "0.5.0-nightly.2026.1.7": "resolc-x86_64-unknown-linux-musl+0.5.0-nightly.2026.1.7+commit.d8c23130",
@@ -1089,7 +1100,7 @@ The information is synced with the [resolc-bin GitHub repository](https://github
     "0.3.0-nightly.2025.7.18": "resolc-x86_64-unknown-linux-musl+0.3.0-nightly.2025.7.18+commit.c285a6ec",
     "0.3.0-nightly.2025.7.15": "resolc-x86_64-unknown-linux-musl+0.3.0-nightly.2025.7.15+commit.a0396dd6"
   },
-  "latestRelease": "0.6.0-nightly.2026.1.13"
+  "latestRelease": "0.6.0-nightly.2026.1.14"
 }
 {% endhighlight %}
 
@@ -1110,6 +1121,16 @@ The information is synced with the [resolc-bin GitHub repository](https://github
       "longVersion": "0.6.0-nightly.2026.1.9+commit.81ce3067",
       "url": "https://github.com/paritytech/revive/actions/runs/20838165528/artifacts/5071229105",
       "sha256": "44c0c7df4574fea7d95f772dc981c443d53b6d1ab74cf9a9da3af1907bf5c3f6",
+      "firstSolcVersion": "0.8.0",
+      "lastSolcVersion": "0.8.33"
+    },
+    {
+      "name": "resolc-universal-apple-darwin",
+      "version": "0.6.0-nightly.2026.1.14",
+      "build": "commit.28506563",
+      "longVersion": "0.6.0-nightly.2026.1.14+commit.28506563",
+      "url": "https://github.com/paritytech/revive/actions/runs/20979139386/artifacts/5121520104",
+      "sha256": "bf2179755df8dd0fbc74c47447c3b4e156bc3f60b7f98621836cc4410a65a339",
       "firstSolcVersion": "0.8.0",
       "lastSolcVersion": "0.8.33"
     },
@@ -1576,6 +1597,7 @@ The information is synced with the [resolc-bin GitHub repository](https://github
   ],
   "releases": {
     "0.6.0-nightly.2026.1.9": "resolc-universal-apple-darwin+0.6.0-nightly.2026.1.9+commit.81ce3067",
+    "0.6.0-nightly.2026.1.14": "resolc-universal-apple-darwin+0.6.0-nightly.2026.1.14+commit.28506563",
     "0.6.0-nightly.2026.1.13": "resolc-universal-apple-darwin+0.6.0-nightly.2026.1.13+commit.c1ce984c",
     "0.5.0-nightly.2026.1.8": "resolc-universal-apple-darwin+0.5.0-nightly.2026.1.8+commit.4c85a311",
     "0.5.0-nightly.2026.1.7": "resolc-universal-apple-darwin+0.5.0-nightly.2026.1.7+commit.d8c23130",
@@ -1623,7 +1645,7 @@ The information is synced with the [resolc-bin GitHub repository](https://github
     "0.3.0-nightly.2025.7.18": "resolc-universal-apple-darwin+0.3.0-nightly.2025.7.18+commit.c285a6ec",
     "0.3.0-nightly.2025.7.15": "resolc-universal-apple-darwin+0.3.0-nightly.2025.7.15+commit.a0396dd6"
   },
-  "latestRelease": "0.6.0-nightly.2026.1.13"
+  "latestRelease": "0.6.0-nightly.2026.1.14"
 }
 {% endhighlight %}
 
@@ -1804,6 +1826,16 @@ The information is synced with the [resolc-bin GitHub repository](https://github
       "longVersion": "0.6.0-nightly.2026.1.9+commit.81ce3067",
       "url": "https://github.com/paritytech/revive/actions/runs/20838165528/artifacts/5070833660",
       "sha256": "3ef3f761d2f8bcf5a9738cf3dfc3befb0199c01031e2e014d8a481afb969a9cd",
+      "firstSolcVersion": "0.8.0",
+      "lastSolcVersion": "0.8.33"
+    },
+    {
+      "name": "resolc-x86_64-pc-windows-msvc",
+      "version": "0.6.0-nightly.2026.1.14",
+      "build": "commit.28506563",
+      "longVersion": "0.6.0-nightly.2026.1.14+commit.28506563",
+      "url": "https://github.com/paritytech/revive/actions/runs/20979139386/artifacts/5120846887",
+      "sha256": "7656c33bd09342aae50a689d8cbfc81d8b1d45bd7909399e491b7e3f85782219",
       "firstSolcVersion": "0.8.0",
       "lastSolcVersion": "0.8.33"
     },
@@ -2270,6 +2302,7 @@ The information is synced with the [resolc-bin GitHub repository](https://github
   ],
   "releases": {
     "0.6.0-nightly.2026.1.9": "resolc-x86_64-pc-windows-msvc+0.6.0-nightly.2026.1.9+commit.81ce3067",
+    "0.6.0-nightly.2026.1.14": "resolc-x86_64-pc-windows-msvc+0.6.0-nightly.2026.1.14+commit.28506563",
     "0.6.0-nightly.2026.1.13": "resolc-x86_64-pc-windows-msvc+0.6.0-nightly.2026.1.13+commit.c1ce984c",
     "0.5.0-nightly.2026.1.8": "resolc-x86_64-pc-windows-msvc+0.5.0-nightly.2026.1.8+commit.4c85a311",
     "0.5.0-nightly.2026.1.7": "resolc-x86_64-pc-windows-msvc+0.5.0-nightly.2026.1.7+commit.d8c23130",
@@ -2317,7 +2350,7 @@ The information is synced with the [resolc-bin GitHub repository](https://github
     "0.3.0-nightly.2025.7.18": "resolc-x86_64-pc-windows-msvc+0.3.0-nightly.2025.7.18+commit.c285a6ec",
     "0.3.0-nightly.2025.7.15": "resolc-x86_64-pc-windows-msvc+0.3.0-nightly.2025.7.15+commit.a0396dd6"
   },
-  "latestRelease": "0.6.0-nightly.2026.1.13"
+  "latestRelease": "0.6.0-nightly.2026.1.14"
 }
 {% endhighlight %}
 
