@@ -3,14 +3,15 @@ title: resolc-bin
 ---
 
 # resolc-bin
+{:.no_toc}
 
 Listed here are details about the `resolc` binary releases for the supported platforms.
 The information is synced with the [resolc-bin GitHub repository](https://github.com/paritytech/resolc-bin).
 
-## Linux
+* TOC
+{:toc}
 
-<details>
-<summary>See builds</summary>
+## Linux
 
 | Release | Solc Versions | SHA256 |
 |---------|---------------|--------|
@@ -26,14 +27,9 @@ The information is synced with the [resolc-bin GitHub repository](https://github
 | [resolc-x86_64-unknown-linux-musl 0.1.0-dev.13+commit.ad331534](https://github.com/paritytech/revive/releases/download/v0.1.0-dev.13/resolc-x86_64-unknown-linux-musl) | 0.8.0 - 0.8.29 | `14d7c165eae626db...` |
 | [resolc-x86_64-unknown-linux-musl 0.1.0+commit.4d659ac2](https://github.com/paritytech/revive/releases/download/v0.1.0/resolc-x86_64-unknown-linux-musl) | 0.8.0 - 0.8.30 | `6753ffa39cceb158...` |
 
-</details>
-
-[JSON](https://paritytech.github.io/resolc-bin/linux/list.json)
+[Full JSON](https://paritytech.github.io/resolc-bin/linux/list.json)
 
 ## MacOS
-
-<details>
-<summary>See builds</summary>
 
 | Release | Solc Versions | SHA256 |
 |---------|---------------|--------|
@@ -49,14 +45,9 @@ The information is synced with the [resolc-bin GitHub repository](https://github
 | [resolc-universal-apple-darwin 0.1.0-dev.13+commit.ad331534](https://github.com/paritytech/revive/releases/download/v0.1.0-dev.13/resolc-universal-apple-darwin) | 0.8.0 - 0.8.29 | `2fca2a358f0cc6e8...` |
 | [resolc-universal-apple-darwin 0.1.0+commit.4d659ac2](https://github.com/paritytech/revive/releases/download/v0.1.0/resolc-universal-apple-darwin) | 0.8.0 - 0.8.30 | `a724bc07899c96a8...` |
 
-</details>
-
-[JSON](https://paritytech.github.io/resolc-bin/macos/list.json)
+[Full JSON](https://paritytech.github.io/resolc-bin/macos/list.json)
 
 ## Wasm
-
-<details>
-<summary>See builds</summary>
 
 | Release | Solc Versions | SHA256 |
 |---------|---------------|--------|
@@ -72,14 +63,9 @@ The information is synced with the [resolc-bin GitHub repository](https://github
 | [resolc_web.js 0.1.0-dev.13+commit.ad331534](https://github.com/paritytech/revive/releases/download/v0.1.0-dev.13/resolc_web.js) | 0.8.0 - 0.8.29 | `4e27c059194c1cbe...` |
 | [resolc_web.js 0.1.0+commit.4d659ac2](https://github.com/paritytech/revive/releases/download/v0.1.0/resolc_web.js) | 0.8.0 - 0.8.30 | `7b5da65775332012...` |
 
-</details>
-
-[JSON](https://paritytech.github.io/resolc-bin/wasm/list.json)
+[Full JSON](https://paritytech.github.io/resolc-bin/wasm/list.json)
 
 ## Windows
-
-<details>
-<summary>See builds</summary>
 
 | Release | Solc Versions | SHA256 |
 |---------|---------------|--------|
@@ -95,20 +81,16 @@ The information is synced with the [resolc-bin GitHub repository](https://github
 | [resolc-x86_64-pc-windows-msvc.exe 0.1.0-dev.13+commit.ad331534](https://github.com/paritytech/revive/releases/download/v0.1.0-dev.13/resolc-x86_64-pc-windows-msvc.exe) | 0.8.0 - 0.8.29 | `8d6d7a7f505936df...` |
 | [resolc-x86_64-pc-windows-msvc.exe 0.1.0+commit.4d659ac2](https://github.com/paritytech/revive/releases/download/v0.1.0/resolc-x86_64-pc-windows-msvc.exe) | 0.8.0 - 0.8.30 | `d58c4d635ad2573f...` |
 
-</details>
-
-[JSON](https://paritytech.github.io/resolc-bin/windows/list.json)
+[Full JSON](https://paritytech.github.io/resolc-bin/windows/list.json)
 
 ## Nightly
 
 ### Linux
 
-<details>
-<summary>See builds</summary>
-
 | Release | Solc Versions | SHA256 |
 |---------|---------------|--------|
 | [resolc-x86_64-unknown-linux-musl 0.6.0-nightly.2026.1.9+commit.81ce3067](https://github.com/paritytech/revive/actions/runs/20838165528/artifacts/5070822063) | 0.8.0 - 0.8.33 | `cab0ecafcd21f065...` |
+| [resolc-x86_64-unknown-linux-musl 0.6.0-nightly.2026.1.16+commit.50e4d47b](https://github.com/paritytech/revive/actions/runs/21052570822/artifacts/5148883341) | 0.8.0 - 0.8.33 | `f9aec5e9b8fa4a91...` |
 | [resolc-x86_64-unknown-linux-musl 0.6.0-nightly.2026.1.15+commit.f5fe3faa](https://github.com/paritytech/revive/actions/runs/21016492346/artifacts/5134991241) | 0.8.0 - 0.8.33 | `52d85f7167daf8ff...` |
 | [resolc-x86_64-unknown-linux-musl 0.6.0-nightly.2026.1.14+commit.28506563](https://github.com/paritytech/revive/actions/runs/20979139386/artifacts/5120840956) | 0.8.0 - 0.8.33 | `3d8aa8f28d3dbfcb...` |
 | [resolc-x86_64-unknown-linux-musl 0.6.0-nightly.2026.1.13+commit.c1ce984c](https://github.com/paritytech/revive/actions/runs/20941376044/artifacts/5106289311) | 0.8.0 - 0.8.33 | `ffc207947e170da3...` |
@@ -158,18 +140,14 @@ The information is synced with the [resolc-bin GitHub repository](https://github
 | [resolc-x86_64-unknown-linux-musl 0.3.0-nightly.2025.7.18+commit.c285a6ec](https://github.com/paritytech/revive/actions/runs/16360014958/artifacts/3559936721) | 0.8.0 - 0.8.30 | `990185433a36d646...` |
 | [resolc-x86_64-unknown-linux-musl 0.3.0-nightly.2025.7.15+commit.a0396dd6](https://github.com/paritytech/revive/actions/runs/16281884429/artifacts/3531837643) | 0.8.0 - 0.8.30 | `12ecf2fb255c2bea...` |
 
-</details>
-
-[JSON](https://paritytech.github.io/resolc-bin/nightly/linux/list.json)
+[Full JSON](https://paritytech.github.io/resolc-bin/nightly/linux/list.json)
 
 ### MacOS
-
-<details>
-<summary>See builds</summary>
 
 | Release | Solc Versions | SHA256 |
 |---------|---------------|--------|
 | [resolc-universal-apple-darwin 0.6.0-nightly.2026.1.9+commit.81ce3067](https://github.com/paritytech/revive/actions/runs/20838165528/artifacts/5071229105) | 0.8.0 - 0.8.33 | `44c0c7df4574fea7...` |
+| [resolc-universal-apple-darwin 0.6.0-nightly.2026.1.16+commit.50e4d47b](https://github.com/paritytech/revive/actions/runs/21052570822/artifacts/5149054443) | 0.8.0 - 0.8.33 | `f6a38cee70823711...` |
 | [resolc-universal-apple-darwin 0.6.0-nightly.2026.1.15+commit.f5fe3faa](https://github.com/paritytech/revive/actions/runs/21016492346/artifacts/5135299421) | 0.8.0 - 0.8.33 | `7d6e35089d41d8a6...` |
 | [resolc-universal-apple-darwin 0.6.0-nightly.2026.1.14+commit.28506563](https://github.com/paritytech/revive/actions/runs/20979139386/artifacts/5121520104) | 0.8.0 - 0.8.33 | `bf2179755df8dd0f...` |
 | [resolc-universal-apple-darwin 0.6.0-nightly.2026.1.13+commit.c1ce984c](https://github.com/paritytech/revive/actions/runs/20941376044/artifacts/5106796501) | 0.8.0 - 0.8.33 | `0dc4a58224ca0749...` |
@@ -219,14 +197,9 @@ The information is synced with the [resolc-bin GitHub repository](https://github
 | [resolc-universal-apple-darwin 0.3.0-nightly.2025.7.18+commit.c285a6ec](https://github.com/paritytech/revive/actions/runs/16360014958/artifacts/3559939784) | 0.8.0 - 0.8.30 | `2868904ee976d163...` |
 | [resolc-universal-apple-darwin 0.3.0-nightly.2025.7.15+commit.a0396dd6](https://github.com/paritytech/revive/actions/runs/16281884429/artifacts/3531843358) | 0.8.0 - 0.8.30 | `269dd3e84fa9bf8b...` |
 
-</details>
-
-[JSON](https://paritytech.github.io/resolc-bin/nightly/macos/list.json)
+[Full JSON](https://paritytech.github.io/resolc-bin/nightly/macos/list.json)
 
 ### Wasm
-
-<details>
-<summary>See builds</summary>
 
 | Release | Solc Versions | SHA256 |
 |---------|---------------|--------|
@@ -244,18 +217,14 @@ The information is synced with the [resolc-bin GitHub repository](https://github
 | [resolc-web.js 0.3.0-nightly.2025.7.18+commit.c285a6ec](https://github.com/paritytech/revive/actions/runs/16360014958/artifacts/3559955409) | 0.8.0 - 0.8.30 | `2ffce3b70a801506...` |
 | [resolc-web.js 0.3.0-nightly.2025.7.15+commit.a0396dd6](https://github.com/paritytech/revive/actions/runs/16281884429/artifacts/3531856855) | 0.8.0 - 0.8.30 | `5485200570194dcf...` |
 
-</details>
-
-[JSON](https://paritytech.github.io/resolc-bin/nightly/wasm/list.json)
+[Full JSON](https://paritytech.github.io/resolc-bin/nightly/wasm/list.json)
 
 ### Windows
-
-<details>
-<summary>See builds</summary>
 
 | Release | Solc Versions | SHA256 |
 |---------|---------------|--------|
 | [resolc-x86_64-pc-windows-msvc 0.6.0-nightly.2026.1.9+commit.81ce3067](https://github.com/paritytech/revive/actions/runs/20838165528/artifacts/5070833660) | 0.8.0 - 0.8.33 | `3ef3f761d2f8bcf5...` |
+| [resolc-x86_64-pc-windows-msvc 0.6.0-nightly.2026.1.16+commit.50e4d47b](https://github.com/paritytech/revive/actions/runs/21052570822/artifacts/5148889284) | 0.8.0 - 0.8.33 | `d580d286d1bb1973...` |
 | [resolc-x86_64-pc-windows-msvc 0.6.0-nightly.2026.1.15+commit.f5fe3faa](https://github.com/paritytech/revive/actions/runs/21016492346/artifacts/5134949926) | 0.8.0 - 0.8.33 | `e5c551a73458f6e5...` |
 | [resolc-x86_64-pc-windows-msvc 0.6.0-nightly.2026.1.14+commit.28506563](https://github.com/paritytech/revive/actions/runs/20979139386/artifacts/5120846887) | 0.8.0 - 0.8.33 | `7656c33bd09342aa...` |
 | [resolc-x86_64-pc-windows-msvc 0.6.0-nightly.2026.1.13+commit.c1ce984c](https://github.com/paritytech/revive/actions/runs/20941376044/artifacts/5106290016) | 0.8.0 - 0.8.33 | `d5bc924cab3eafc0...` |
@@ -305,6 +274,4 @@ The information is synced with the [resolc-bin GitHub repository](https://github
 | [resolc-x86_64-pc-windows-msvc 0.3.0-nightly.2025.7.18+commit.c285a6ec](https://github.com/paritytech/revive/actions/runs/16360014958/artifacts/3559938258) | 0.8.0 - 0.8.30 | `684e35b51df63851...` |
 | [resolc-x86_64-pc-windows-msvc 0.3.0-nightly.2025.7.15+commit.a0396dd6](https://github.com/paritytech/revive/actions/runs/16281884429/artifacts/3531838544) | 0.8.0 - 0.8.30 | `06cd9e4c4a26f0dd...` |
 
-</details>
-
-[JSON](https://paritytech.github.io/resolc-bin/nightly/windows/list.json)
+[Full JSON](https://paritytech.github.io/resolc-bin/nightly/windows/list.json)
