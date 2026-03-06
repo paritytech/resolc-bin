@@ -629,6 +629,16 @@
             "sha256": "9e96cd10244224db621fdc931c133584566d46faaef852f7a91083dd0abe0708",
             "firstSolcVersion": "0.8.0",
             "lastSolcVersion": "0.8.34"
+        },
+        {
+            "name": "resolc-x86_64-pc-windows-msvc",
+            "version": "1.0.0-nightly.2026.3.6",
+            "build": "commit.1a139317",
+            "longVersion": "1.0.0-nightly.2026.3.6+commit.1a139317",
+            "url": "https://github.com/paritytech/revive/actions/runs/22745072334/artifacts/5790420788",
+            "sha256": "0ef24dfe24f2206a871000d14258cd1eb20abe15c8d106b4338c596d51f4b42c",
+            "firstSolcVersion": "0.8.0",
+            "lastSolcVersion": "0.8.34"
         }
     ],
     "releases": {
@@ -694,7 +704,8 @@
         "1.0.0-nightly.2026.2.23": "resolc-x86_64-pc-windows-msvc+1.0.0-nightly.2026.2.23+commit.71d584dd",
         "1.0.0-nightly.2026.2.24": "resolc-x86_64-pc-windows-msvc+1.0.0-nightly.2026.2.24+commit.810a36b1",
         "1.0.0-nightly.2026.2.27": "resolc-x86_64-pc-windows-msvc+1.0.0-nightly.2026.2.27+commit.0c8ef107",
-        "llm-21.1.8.emsdk-5.0.0-lto-reie.a29e9fe-nightly.2026.3.5": "resolc-x86_64-pc-windows-msvc+llm-21.1.8.emsdk-5.0.0-lto-reie.a29e9fe-nightly.2026.3.5+commit.5aebcc76"
+        "llm-21.1.8.emsdk-5.0.0-lto-reie.a29e9fe-nightly.2026.3.5": "resolc-x86_64-pc-windows-msvc+llm-21.1.8.emsdk-5.0.0-lto-reie.a29e9fe-nightly.2026.3.5+commit.5aebcc76",
+        "1.0.0-nightly.2026.3.6": "resolc-x86_64-pc-windows-msvc+1.0.0-nightly.2026.3.6+commit.1a139317"
     },
-    "latestRelease": "llm-21.1.8.emsdk-5.0.0-lto-reie.a29e9fe-nightly.2026.3.5"
+    "latestRelease": "1.0.0-nightly.2026.3.6"
 }
