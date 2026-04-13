@@ -119,6 +119,16 @@
             "sha256": "e626ba7a1a0d26828c14713781b0082ececc9a0fbfe984f11f0d93d66bbd7806",
             "firstSolcVersion": "0.8.0",
             "lastSolcVersion": "0.8.33"
+        },
+        {
+            "name": "resolc-x86_64-unknown-linux-musl",
+            "version": "1.1.0",
+            "build": "commit.f887e755",
+            "longVersion": "1.1.0+commit.f887e755",
+            "url": "https://github.com/paritytech/revive/releases/download/v1.1.0/resolc-x86_64-unknown-linux-musl",
+            "sha256": "cf6ee5d520b48d5165b98b8167a29ac693520d7466137c612b59b1617c1bdbf1",
+            "firstSolcVersion": "0.8.0",
+            "lastSolcVersion": "0.8.34"
         }
     ],
     "releases": {
@@ -133,7 +143,8 @@
         "0.4.1": "resolc-x86_64-unknown-linux-musl+0.4.1+commit.20908308",
         "0.5.0": "resolc-x86_64-unknown-linux-musl+0.5.0+commit.046455db",
         "0.6.0": "resolc-x86_64-unknown-linux-musl+0.6.0+commit.81ce3067",
-        "1.0.0": "resolc-x86_64-unknown-linux-musl+1.0.0+commit.b080c1d8"
+        "1.0.0": "resolc-x86_64-unknown-linux-musl+1.0.0+commit.b080c1d8",
+        "1.1.0": "resolc-x86_64-unknown-linux-musl+1.1.0+commit.f887e755"
     },
-    "latestRelease": "1.0.0"
+    "latestRelease": "1.1.0"
 }
