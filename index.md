@@ -97,6 +97,7 @@ The information is synced with the [resolc-bin GitHub repository](https://github
 
 | Release | Solc Versions | SHA256 |
 |---------|---------------|--------|
+| [resolc-x86_64-unknown-linux-musl 1.1.0-nightly.2026.4.14+commit.f887e755](https://github.com/paritytech/revive/actions/runs/24376294630/artifacts/6418797627) | 0.8.0 - 0.8.34 | `9d69a248b435d2b9...` |
 | [resolc-x86_64-unknown-linux-musl 1.0.0-nightly.2026.4.11+commit.b3cd4025](https://github.com/paritytech/revive/actions/runs/24271729906/artifacts/6382394725) | 0.8.0 - 0.8.34 | `5d0978bb5c1e096f...` |
 | [resolc-x86_64-unknown-linux-musl 1.0.0-nightly.2026.4.10+commit.41d8593a](https://github.com/paritytech/revive/actions/runs/24222116493/artifacts/6362865993) | 0.8.0 - 0.8.34 | `b1773705f462c44e...` |
 | [resolc-x86_64-unknown-linux-musl 1.0.0-nightly.2026.3.6+commit.1a139317](https://github.com/paritytech/revive/actions/runs/22745072334/artifacts/5790401932) | 0.8.0 - 0.8.34 | `b8cbade7ede3355d...` |
@@ -176,6 +177,7 @@ The information is synced with the [resolc-bin GitHub repository](https://github
 
 | Release | Solc Versions | SHA256 |
 |---------|---------------|--------|
+| [resolc-universal-apple-darwin 1.1.0-nightly.2026.4.14+commit.f887e755](https://github.com/paritytech/revive/actions/runs/24376294630/artifacts/6418909874) | 0.8.0 - 0.8.34 | `b29ad8757224e87c...` |
 | [resolc-universal-apple-darwin 1.0.0-nightly.2026.4.11+commit.b3cd4025](https://github.com/paritytech/revive/actions/runs/24271729906/artifacts/6382471345) | 0.8.0 - 0.8.34 | `de8050822c4c3c68...` |
 | [resolc-universal-apple-darwin 1.0.0-nightly.2026.4.10+commit.41d8593a](https://github.com/paritytech/revive/actions/runs/24222116493/artifacts/6362979316) | 0.8.0 - 0.8.34 | `5b69e7a8b5eeef3c...` |
 | [resolc-universal-apple-darwin 1.0.0-nightly.2026.3.6+commit.1a139317](https://github.com/paritytech/revive/actions/runs/22745072334/artifacts/5790500117) | 0.8.0 - 0.8.34 | `cbde8ff9dd055923...` |
@@ -275,6 +277,7 @@ The information is synced with the [resolc-bin GitHub repository](https://github
 
 | Release | Solc Versions | SHA256 |
 |---------|---------------|--------|
+| [resolc-x86_64-pc-windows-msvc 1.1.0-nightly.2026.4.14+commit.f887e755](https://github.com/paritytech/revive/actions/runs/24376294630/artifacts/6418814767) | 0.8.0 - 0.8.34 | `140f9ead1e32978c...` |
 | [resolc-x86_64-pc-windows-msvc 1.0.0-nightly.2026.4.11+commit.b3cd4025](https://github.com/paritytech/revive/actions/runs/24271729906/artifacts/6382404079) | 0.8.0 - 0.8.34 | `f52cc81c24f4f55a...` |
 | [resolc-x86_64-pc-windows-msvc 1.0.0-nightly.2026.4.10+commit.41d8593a](https://github.com/paritytech/revive/actions/runs/24222116493/artifacts/6362876587) | 0.8.0 - 0.8.34 | `bcc1ad8230d7d608...` |
 | [resolc-x86_64-pc-windows-msvc 1.0.0-nightly.2026.3.6+commit.1a139317](https://github.com/paritytech/revive/actions/runs/22745072334/artifacts/5790420788) | 0.8.0 - 0.8.34 | `0ef24dfe24f2206a...` |
