@@ -789,6 +789,16 @@
             "sha256": "5442d85c99265eb4c539b83551bf7e07fdf33104794239fddeab19fe6d2f365d",
             "firstSolcVersion": "0.8.0",
             "lastSolcVersion": "0.8.35"
+        },
+        {
+            "name": "resolc-x86_64-unknown-linux-musl",
+            "version": "1.1.0-nightly.2026.5.8",
+            "build": "commit.5042c149",
+            "longVersion": "1.1.0-nightly.2026.5.8+commit.5042c149",
+            "url": "https://github.com/paritytech/revive/actions/runs/25531861001/artifacts/6870160657",
+            "sha256": "2ae5a1c82cb5eef9373470637d438bf1e94dc5a0dd08dede08c900c356dc025c",
+            "firstSolcVersion": "0.8.0",
+            "lastSolcVersion": "0.8.35"
         }
     ],
     "releases": {
@@ -870,7 +880,8 @@
         "1.1.0-nightly.2026.4.29": "resolc-x86_64-unknown-linux-musl+1.1.0-nightly.2026.4.29+commit.8326aa3a",
         "1.1.0-nightly.2026.4.30": "resolc-x86_64-unknown-linux-musl+1.1.0-nightly.2026.4.30+commit.1308b446",
         "1.1.0-nightly.2026.5.2": "resolc-x86_64-unknown-linux-musl+1.1.0-nightly.2026.5.2+commit.ee869cdd",
-        "1.1.0-nightly.2026.5.5": "resolc-x86_64-unknown-linux-musl+1.1.0-nightly.2026.5.5+commit.f2eb9f7c"
+        "1.1.0-nightly.2026.5.5": "resolc-x86_64-unknown-linux-musl+1.1.0-nightly.2026.5.5+commit.f2eb9f7c",
+        "1.1.0-nightly.2026.5.8": "resolc-x86_64-unknown-linux-musl+1.1.0-nightly.2026.5.8+commit.5042c149"
     },
-    "latestRelease": "1.1.0-nightly.2026.5.5"
+    "latestRelease": "1.1.0-nightly.2026.5.8"
 }
