@@ -100,6 +100,7 @@ The information is synced with the [resolc-bin GitHub repository](https://github
 | [resolc-x86_64-unknown-linux-musl 1.1.0-nightly.2026.5.9+commit.7fe8d417](https://github.com/paritytech/revive/actions/runs/25588072215/artifacts/6891758603) | 0.8.0 - 0.8.35 | `3bdb31f5dc216b35...` |
 | [resolc-x86_64-unknown-linux-musl 1.1.0-nightly.2026.5.8+commit.5042c149](https://github.com/paritytech/revive/actions/runs/25531861001/artifacts/6870160657) | 0.8.0 - 0.8.35 | `2ae5a1c82cb5eef9...` |
 | [resolc-x86_64-unknown-linux-musl 1.1.0-nightly.2026.5.5+commit.f2eb9f7c](https://github.com/paritytech/revive/actions/runs/25353316616/artifacts/6797218348) | 0.8.0 - 0.8.35 | `5442d85c99265eb4...` |
+| [resolc-x86_64-unknown-linux-musl 1.1.0-nightly.2026.5.29+commit.b2c025fa](https://github.com/paritytech/revive/actions/runs/26613023212/artifacts/7281403999) | 0.8.0 - 0.8.35 | `459d439d3dd8fe14...` |
 | [resolc-x86_64-unknown-linux-musl 1.1.0-nightly.2026.5.28+commit.62a62770](https://github.com/paritytech/revive/actions/runs/26549430582/artifacts/7255914005) | 0.8.0 - 0.8.35 | `1c2207903b9dd599...` |
 | [resolc-x86_64-unknown-linux-musl 1.1.0-nightly.2026.5.27+commit.28a90100](https://github.com/paritytech/revive/actions/runs/26492416974/artifacts/7232515728) | 0.8.0 - 0.8.35 | `2d7c636dcbbd0e1c...` |
 | [resolc-x86_64-unknown-linux-musl 1.1.0-nightly.2026.5.26+commit.c70efb2c](https://github.com/paritytech/revive/actions/runs/26427528268/artifacts/7207365350) | 0.8.0 - 0.8.35 | `0fe754ed8bd98146...` |
@@ -193,6 +194,7 @@ The information is synced with the [resolc-bin GitHub repository](https://github
 | [resolc-universal-apple-darwin 1.1.0-nightly.2026.5.9+commit.7fe8d417](https://github.com/paritytech/revive/actions/runs/25588072215/artifacts/6891762364) | 0.8.0 - 0.8.35 | `cabb7ac52e94a97a...` |
 | [resolc-universal-apple-darwin 1.1.0-nightly.2026.5.8+commit.5042c149](https://github.com/paritytech/revive/actions/runs/25531861001/artifacts/6870165508) | 0.8.0 - 0.8.35 | `b9d26cb365e29c1b...` |
 | [resolc-universal-apple-darwin 1.1.0-nightly.2026.5.5+commit.f2eb9f7c](https://github.com/paritytech/revive/actions/runs/25353316616/artifacts/6797224970) | 0.8.0 - 0.8.35 | `3c72fc0f95cb2e54...` |
+| [resolc-universal-apple-darwin 1.1.0-nightly.2026.5.29+commit.b2c025fa](https://github.com/paritytech/revive/actions/runs/26613023212/artifacts/7281412529) | 0.8.0 - 0.8.35 | `88afb877ade7a93d...` |
 | [resolc-universal-apple-darwin 1.1.0-nightly.2026.5.28+commit.62a62770](https://github.com/paritytech/revive/actions/runs/26549430582/artifacts/7255923073) | 0.8.0 - 0.8.35 | `68e7057251121ec0...` |
 | [resolc-universal-apple-darwin 1.1.0-nightly.2026.5.27+commit.28a90100](https://github.com/paritytech/revive/actions/runs/26492416974/artifacts/7232521595) | 0.8.0 - 0.8.35 | `23f8bb4f20e757b2...` |
 | [resolc-universal-apple-darwin 1.1.0-nightly.2026.5.26+commit.c70efb2c](https://github.com/paritytech/revive/actions/runs/26427528268/artifacts/7207371527) | 0.8.0 - 0.8.35 | `4b2ea3717942af0b...` |
@@ -306,6 +308,7 @@ The information is synced with the [resolc-bin GitHub repository](https://github
 | [resolc-x86_64-pc-windows-msvc 1.1.0-nightly.2026.5.9+commit.7fe8d417](https://github.com/paritytech/revive/actions/runs/25588072215/artifacts/6891759051) | 0.8.0 - 0.8.35 | `5ab3ac144294923b...` |
 | [resolc-x86_64-pc-windows-msvc 1.1.0-nightly.2026.5.8+commit.5042c149](https://github.com/paritytech/revive/actions/runs/25531861001/artifacts/6870161424) | 0.8.0 - 0.8.35 | `97123982708583e2...` |
 | [resolc-x86_64-pc-windows-msvc 1.1.0-nightly.2026.5.5+commit.f2eb9f7c](https://github.com/paritytech/revive/actions/runs/25353316616/artifacts/6797219713) | 0.8.0 - 0.8.35 | `e1c9fe43872b34e7...` |
+| [resolc-x86_64-pc-windows-msvc 1.1.0-nightly.2026.5.29+commit.b2c025fa](https://github.com/paritytech/revive/actions/runs/26613023212/artifacts/7281405290) | 0.8.0 - 0.8.35 | `764c49b3f9b2201a...` |
 | [resolc-x86_64-pc-windows-msvc 1.1.0-nightly.2026.5.28+commit.62a62770](https://github.com/paritytech/revive/actions/runs/26549430582/artifacts/7255919157) | 0.8.0 - 0.8.35 | `831a80358aeea0c0...` |
 | [resolc-x86_64-pc-windows-msvc 1.1.0-nightly.2026.5.27+commit.28a90100](https://github.com/paritytech/revive/actions/runs/26492416974/artifacts/7232518113) | 0.8.0 - 0.8.35 | `046988fe6f981a72...` |
 | [resolc-x86_64-pc-windows-msvc 1.1.0-nightly.2026.5.26+commit.c70efb2c](https://github.com/paritytech/revive/actions/runs/26427528268/artifacts/7207367721) | 0.8.0 - 0.8.35 | `15a8eaba03e30511...` |
