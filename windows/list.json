@@ -129,6 +129,16 @@
             "sha256": "79b5adc978e5b5dc0f58924bd691ce38eb540df83057a75c5e0db2211d822fa4",
             "firstSolcVersion": "0.8.0",
             "lastSolcVersion": "0.8.34"
+        },
+        {
+            "name": "resolc-x86_64-pc-windows-msvc.exe",
+            "version": "1.2.0",
+            "build": "commit.c3599b8c",
+            "longVersion": "1.2.0+commit.c3599b8c",
+            "url": "https://github.com/paritytech/revive/releases/download/v1.2.0/resolc-x86_64-pc-windows-msvc.exe",
+            "sha256": "32ae3c91ea6b114d004f221c20b145ed0ea5a4a0ab5f9f187d79e4c123aafd6d",
+            "firstSolcVersion": "0.8.0",
+            "lastSolcVersion": "0.8.35"
         }
     ],
     "releases": {
@@ -144,7 +154,8 @@
         "0.5.0": "resolc-x86_64-pc-windows-msvc.exe+0.5.0+commit.046455db",
         "0.6.0": "resolc-x86_64-pc-windows-msvc.exe+0.6.0+commit.81ce3067",
         "1.0.0": "resolc-x86_64-pc-windows-msvc.exe+1.0.0+commit.b080c1d8",
-        "1.1.0": "resolc-x86_64-pc-windows-msvc.exe+1.1.0+commit.f887e755"
+        "1.1.0": "resolc-x86_64-pc-windows-msvc.exe+1.1.0+commit.f887e755",
+        "1.2.0": "resolc-x86_64-pc-windows-msvc.exe+1.2.0+commit.c3599b8c"
     },
-    "latestRelease": "1.1.0"
+    "latestRelease": "1.2.0"
 }
