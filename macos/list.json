@@ -133,10 +133,10 @@
         {
             "name": "resolc-universal-apple-darwin",
             "version": "1.2.0",
-            "build": "commit.c3599b8c",
-            "longVersion": "1.2.0+commit.c3599b8c",
+            "build": "commit.9b22bcdc",
+            "longVersion": "1.2.0+commit.9b22bcdc",
             "url": "https://github.com/paritytech/revive/releases/download/v1.2.0/resolc-universal-apple-darwin",
-            "sha256": "7829cab7cd14dca42a2eff6e46a7814e4ab322843f66c4018c5e03a2ea30c9b3",
+            "sha256": "ef899c070e5138d7fcc7bec0be8a0c67dc81135a699c533e6edffb94e1c807b2",
             "firstSolcVersion": "0.8.0",
             "lastSolcVersion": "0.8.35"
         }
@@ -155,7 +155,7 @@
         "0.6.0": "resolc-universal-apple-darwin+0.6.0+commit.81ce3067",
         "1.0.0": "resolc-universal-apple-darwin+1.0.0+commit.b080c1d8",
         "1.1.0": "resolc-universal-apple-darwin+1.1.0+commit.f887e755",
-        "1.2.0": "resolc-universal-apple-darwin+1.2.0+commit.c3599b8c"
+        "1.2.0": "resolc-universal-apple-darwin+1.2.0+commit.9b22bcdc"
     },
     "latestRelease": "1.2.0"
 }
