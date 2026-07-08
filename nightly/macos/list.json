@@ -989,6 +989,16 @@
             "sha256": "c0664fe712f6c5b5f0ef63fe568c1ea3a1f12deaa05952ca2ba68e8f861c0020",
             "firstSolcVersion": "0.8.0",
             "lastSolcVersion": "0.8.35"
+        },
+        {
+            "name": "resolc-universal-apple-darwin",
+            "version": "1.3.0-nightly.2026.7.8",
+            "build": "commit.c18d29b8",
+            "longVersion": "1.3.0-nightly.2026.7.8+commit.c18d29b8",
+            "url": "https://github.com/paritytech/revive/actions/runs/28911200506/artifacts/8155965723",
+            "sha256": "999b21d8a5d9fd2357c4693ba6744499336a7a1c586983c84e08fa6624e263f3",
+            "firstSolcVersion": "0.8.0",
+            "lastSolcVersion": "0.8.35"
         }
     ],
     "releases": {
@@ -1090,7 +1100,8 @@
         "1.3.0-nightly.2026.6.25": "resolc-universal-apple-darwin+1.3.0-nightly.2026.6.25+commit.3d70def0",
         "1.3.0-nightly.2026.6.26": "resolc-universal-apple-darwin+1.3.0-nightly.2026.6.26+commit.541955d3",
         "1.3.0-nightly.2026.7.3": "resolc-universal-apple-darwin+1.3.0-nightly.2026.7.3+commit.5b92391c",
-        "1.3.0-nightly.2026.7.7": "resolc-universal-apple-darwin+1.3.0-nightly.2026.7.7+commit.9b177f64"
+        "1.3.0-nightly.2026.7.7": "resolc-universal-apple-darwin+1.3.0-nightly.2026.7.7+commit.9b177f64",
+        "1.3.0-nightly.2026.7.8": "resolc-universal-apple-darwin+1.3.0-nightly.2026.7.8+commit.c18d29b8"
     },
-    "latestRelease": "1.3.0-nightly.2026.7.7"
+    "latestRelease": "1.3.0-nightly.2026.7.8"
 }
