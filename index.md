@@ -130,6 +130,7 @@ The information is synced with the [resolc-bin GitHub repository](https://github
 | [resolc-x86_64-unknown-linux-musl 1.4.0-nightly.2026.10.6+commit.2ed97863](https://github.com/paritytech/revive/actions/runs/37399648116/artifacts/11384800677) | 0.8.0 - 0.8.37 | `fa70a659f86fbd1e...` |
 | [resolc-x86_64-unknown-linux-musl 1.4.0-nightly.2026.10.3+commit.bcdc3edc](https://github.com/paritytech/revive/actions/runs/37086256999/artifacts/11260439687) | 0.8.0 - 0.8.37 | `22bebc8b50eb16aa...` |
 | [resolc-x86_64-unknown-linux-musl 1.4.0-nightly.2026.10.2+commit.deef36e3](https://github.com/paritytech/revive/actions/runs/36951437870/artifacts/11204496795) | 0.8.0 - 0.8.37 | `bf04ecb2b245336f...` |
+| [resolc-x86_64-unknown-linux-musl 1.4.0-nightly.2026.10.10+commit.d4610961](https://github.com/paritytech/revive/actions/runs/38013769527/artifacts/11655107664) | 0.8.0 - 0.8.37 | `9d5fd70e6a4fdb65...` |
 | [resolc-x86_64-unknown-linux-musl 1.4.0-nightly.2026.10.1+commit.4452cdc7](https://github.com/paritytech/revive/actions/runs/36802372854/artifacts/11136283306) | 0.8.0 - 0.8.37 | `c427f60b0bf080e7...` |
 | [resolc-x86_64-unknown-linux-musl 1.3.0-nightly.2026.7.9+commit.61b7ab85](https://github.com/paritytech/revive/actions/runs/28988008677/artifacts/8186743836) | 0.8.0 - 0.8.35 | `d4728f1cfab45aae...` |
 | [resolc-x86_64-unknown-linux-musl 1.3.0-nightly.2026.7.8+commit.c18d29b8](https://github.com/paritytech/revive/actions/runs/28911200506/artifacts/8155958702) | 0.8.0 - 0.8.35 | `d3b374316021eeb0...` |
@@ -262,6 +263,7 @@ The information is synced with the [resolc-bin GitHub repository](https://github
 | [resolc-universal-apple-darwin 1.4.0-nightly.2026.10.6+commit.2ed97863](https://github.com/paritytech/revive/actions/runs/37399648116/artifacts/11385155290) | 0.8.0 - 0.8.37 | `867fc56a8ecc51ce...` |
 | [resolc-universal-apple-darwin 1.4.0-nightly.2026.10.3+commit.bcdc3edc](https://github.com/paritytech/revive/actions/runs/37086256999/artifacts/11260093455) | 0.8.0 - 0.8.37 | `175988aef935d095...` |
 | [resolc-universal-apple-darwin 1.4.0-nightly.2026.10.2+commit.deef36e3](https://github.com/paritytech/revive/actions/runs/36951437870/artifacts/11204645565) | 0.8.0 - 0.8.37 | `84e6edd291e485be...` |
+| [resolc-universal-apple-darwin 1.4.0-nightly.2026.10.10+commit.d4610961](https://github.com/paritytech/revive/actions/runs/38013769527/artifacts/11655662607) | 0.8.0 - 0.8.37 | `3a981b2c455d69f8...` |
 | [resolc-universal-apple-darwin 1.4.0-nightly.2026.10.1+commit.4452cdc7](https://github.com/paritytech/revive/actions/runs/36802372854/artifacts/11136373178) | 0.8.0 - 0.8.37 | `248b8fb492efd16b...` |
 | [resolc-universal-apple-darwin 1.3.0-nightly.2026.7.9+commit.61b7ab85](https://github.com/paritytech/revive/actions/runs/28988008677/artifacts/8186751066) | 0.8.0 - 0.8.35 | `c7273d2b88f8bd13...` |
 | [resolc-universal-apple-darwin 1.3.0-nightly.2026.7.8+commit.c18d29b8](https://github.com/paritytech/revive/actions/runs/28911200506/artifacts/8155965723) | 0.8.0 - 0.8.35 | `999b21d8a5d9fd23...` |
@@ -394,6 +396,7 @@ The information is synced with the [resolc-bin GitHub repository](https://github
 | [resolc-web.js 1.4.0-nightly.2026.10.6+commit.2ed97863](https://github.com/paritytech/revive/actions/runs/37399648116/artifacts/11384458475) | 0.8.0 - 0.8.37 | `5567619f23e394f3...` |
 | [resolc-web.js 1.4.0-nightly.2026.10.3+commit.bcdc3edc](https://github.com/paritytech/revive/actions/runs/37086256999/artifacts/11260725838) | 0.8.0 - 0.8.37 | `aac0e0afe048c7e3...` |
 | [resolc-web.js 1.4.0-nightly.2026.10.2+commit.deef36e3](https://github.com/paritytech/revive/actions/runs/36951437870/artifacts/11203922089) | 0.8.0 - 0.8.37 | `4c09d80c4a1f8ce3...` |
+| [resolc-web.js 1.4.0-nightly.2026.10.10+commit.d4610961](https://github.com/paritytech/revive/actions/runs/38013769527/artifacts/11654452770) | 0.8.0 - 0.8.37 | `c4bc75188f187112...` |
 | [resolc-web.js 1.4.0-nightly.2026.10.1+commit.4452cdc7](https://github.com/paritytech/revive/actions/runs/36802372854/artifacts/11136123782) | 0.8.0 - 0.8.37 | `c9efca12d6e37cc4...` |
 | [resolc-web.js 1.3.0-nightly.2026.7.9+commit.61b7ab85](https://github.com/paritytech/revive/actions/runs/28988008677/artifacts/8186745130) | 0.8.0 - 0.8.35 | `de391b25916d22fd...` |
 | [resolc-web.js 1.3.0-nightly.2026.7.8+commit.c18d29b8](https://github.com/paritytech/revive/actions/runs/28911200506/artifacts/8155960039) | 0.8.0 - 0.8.35 | `5cfad6c4b47bc774...` |
@@ -449,6 +452,7 @@ The information is synced with the [resolc-bin GitHub repository](https://github
 | [resolc-x86_64-pc-windows-msvc 1.4.0-nightly.2026.10.6+commit.2ed97863](https://github.com/paritytech/revive/actions/runs/37399648116/artifacts/11384278501) | 0.8.0 - 0.8.37 | `cc79ee312d8489fb...` |
 | [resolc-x86_64-pc-windows-msvc 1.4.0-nightly.2026.10.3+commit.bcdc3edc](https://github.com/paritytech/revive/actions/runs/37086256999/artifacts/11260498081) | 0.8.0 - 0.8.37 | `b1edac16d2aa0d67...` |
 | [resolc-x86_64-pc-windows-msvc 1.4.0-nightly.2026.10.2+commit.deef36e3](https://github.com/paritytech/revive/actions/runs/36951437870/artifacts/11203559777) | 0.8.0 - 0.8.37 | `02482c757ff105f6...` |
+| [resolc-x86_64-pc-windows-msvc 1.4.0-nightly.2026.10.10+commit.d4610961](https://github.com/paritytech/revive/actions/runs/38013769527/artifacts/11654447789) | 0.8.0 - 0.8.37 | `1d2f964db2418ac4...` |
 | [resolc-x86_64-pc-windows-msvc 1.4.0-nightly.2026.10.1+commit.4452cdc7](https://github.com/paritytech/revive/actions/runs/36802372854/artifacts/11135992597) | 0.8.0 - 0.8.37 | `99d9bbfdd2dfbb60...` |
 | [resolc-x86_64-pc-windows-msvc 1.3.0-nightly.2026.7.9+commit.61b7ab85](https://github.com/paritytech/revive/actions/runs/28988008677/artifacts/8186747167) | 0.8.0 - 0.8.35 | `2cd31f2c1da6b0c1...` |
 | [resolc-x86_64-pc-windows-msvc 1.3.0-nightly.2026.7.8+commit.c18d29b8](https://github.com/paritytech/revive/actions/runs/28911200506/artifacts/8155962569) | 0.8.0 - 0.8.35 | `2a11c0e7e979c831...` |
