@@ -559,6 +559,16 @@
             "sha256": "fef323071f900b6b6c379c68d9ba6fe0f9730a8235f58e314aac3db92becd1ac",
             "firstSolcVersion": "0.8.0",
             "lastSolcVersion": "0.8.37"
+        },
+        {
+            "name": "resolc-web.js",
+            "version": "1.4.0-nightly.2026.10.27",
+            "build": "commit.87cbfda4",
+            "longVersion": "1.4.0-nightly.2026.10.27+commit.87cbfda4",
+            "url": "https://github.com/paritytech/revive/actions/runs/40432965471/artifacts/12703295498",
+            "sha256": "37d035d73be51bd5a84d12b60d379f9ff9b94b03da63b4e6f1de4f71ca04ec00",
+            "firstSolcVersion": "0.8.0",
+            "lastSolcVersion": "0.8.38"
         }
     ],
     "releases": {
@@ -617,7 +627,8 @@
         "1.4.0-nightly.2026.10.20": "resolc-web.js+1.4.0-nightly.2026.10.20+commit.d83249a6",
         "1.4.0-nightly.2026.10.22": "resolc-web.js+1.4.0-nightly.2026.10.22+commit.a225688d",
         "1.4.0-nightly.2026.10.23": "resolc-web.js+1.4.0-nightly.2026.10.23+commit.33447fa6",
-        "1.4.0-nightly.2026.10.24": "resolc-web.js+1.4.0-nightly.2026.10.24+commit.09bfc7e6"
+        "1.4.0-nightly.2026.10.24": "resolc-web.js+1.4.0-nightly.2026.10.24+commit.09bfc7e6",
+        "1.4.0-nightly.2026.10.27": "resolc-web.js+1.4.0-nightly.2026.10.27+commit.87cbfda4"
     },
-    "latestRelease": "1.4.0-nightly.2026.10.24"
+    "latestRelease": "1.4.0-nightly.2026.10.27"
 }

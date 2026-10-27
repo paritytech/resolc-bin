@@ -1329,6 +1329,16 @@
             "sha256": "28cf685c3f566221d5085fc3d8d0cdbf9a2a16e34764f95c068fd291a880996c",
             "firstSolcVersion": "0.8.0",
             "lastSolcVersion": "0.8.37"
+        },
+        {
+            "name": "resolc-x86_64-pc-windows-msvc",
+            "version": "1.4.0-nightly.2026.10.27",
+            "build": "commit.87cbfda4",
+            "longVersion": "1.4.0-nightly.2026.10.27+commit.87cbfda4",
+            "url": "https://github.com/paritytech/revive/actions/runs/40432965471/artifacts/12702907049",
+            "sha256": "ceb0de10bdf2e0114b87ebb622167de40f1a66cf757a2697aa1d1f74e24448b1",
+            "firstSolcVersion": "0.8.0",
+            "lastSolcVersion": "0.8.38"
         }
     ],
     "releases": {
@@ -1464,7 +1474,8 @@
         "1.4.0-nightly.2026.10.20": "resolc-x86_64-pc-windows-msvc+1.4.0-nightly.2026.10.20+commit.d83249a6",
         "1.4.0-nightly.2026.10.22": "resolc-x86_64-pc-windows-msvc+1.4.0-nightly.2026.10.22+commit.a225688d",
         "1.4.0-nightly.2026.10.23": "resolc-x86_64-pc-windows-msvc+1.4.0-nightly.2026.10.23+commit.33447fa6",
-        "1.4.0-nightly.2026.10.24": "resolc-x86_64-pc-windows-msvc+1.4.0-nightly.2026.10.24+commit.09bfc7e6"
+        "1.4.0-nightly.2026.10.24": "resolc-x86_64-pc-windows-msvc+1.4.0-nightly.2026.10.24+commit.09bfc7e6",
+        "1.4.0-nightly.2026.10.27": "resolc-x86_64-pc-windows-msvc+1.4.0-nightly.2026.10.27+commit.87cbfda4"
     },
-    "latestRelease": "1.4.0-nightly.2026.10.24"
+    "latestRelease": "1.4.0-nightly.2026.10.27"
 }
