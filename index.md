@@ -15,6 +15,7 @@ The information is synced with the [resolc-bin GitHub repository](https://github
 
 | Release | Solc Versions | SHA256 |
 |---------|---------------|--------|
+| [resolc-x86_64-unknown-linux-musl 1.5.0+commit.2942b3a9](https://github.com/paritytech/revive/releases/download/v1.5.0/resolc-x86_64-unknown-linux-musl) | 0.8.0 - 0.8.38 | `e5b084656929a50a...` |
 | [resolc-x86_64-unknown-linux-musl 1.4.0+commit.ca3c7702](https://github.com/paritytech/revive/releases/download/v1.4.0/resolc-x86_64-unknown-linux-musl) | 0.8.0 - 0.8.36 | `74e051ce27300c77...` |
 | [resolc-x86_64-unknown-linux-musl 1.3.0+commit.fb0e9e6a](https://github.com/paritytech/revive/releases/download/v1.3.0/resolc-x86_64-unknown-linux-musl) | 0.8.0 - 0.8.35 | `eb7657b5900433de...` |
 | [resolc-x86_64-unknown-linux-musl 1.2.0+commit.9b22bcdc](https://github.com/paritytech/revive/releases/download/v1.2.0/resolc-x86_64-unknown-linux-musl) | 0.8.0 - 0.8.35 | `982d3daa46775fd2...` |
@@ -38,6 +39,7 @@ The information is synced with the [resolc-bin GitHub repository](https://github
 
 | Release | Solc Versions | SHA256 |
 |---------|---------------|--------|
+| [resolc-universal-apple-darwin 1.5.0+commit.2942b3a9](https://github.com/paritytech/revive/releases/download/v1.5.0/resolc-universal-apple-darwin) | 0.8.0 - 0.8.38 | `fca694145a15400a...` |
 | [resolc-universal-apple-darwin 1.4.0+commit.ca3c7702](https://github.com/paritytech/revive/releases/download/v1.4.0/resolc-universal-apple-darwin) | 0.8.0 - 0.8.36 | `01fc1a734c51330d...` |
 | [resolc-universal-apple-darwin 1.3.0+commit.fb0e9e6a](https://github.com/paritytech/revive/releases/download/v1.3.0/resolc-universal-apple-darwin) | 0.8.0 - 0.8.35 | `211319eb62cbf316...` |
 | [resolc-universal-apple-darwin 1.2.0+commit.9b22bcdc](https://github.com/paritytech/revive/releases/download/v1.2.0/resolc-universal-apple-darwin) | 0.8.0 - 0.8.35 | `ef899c070e5138d7...` |
@@ -61,6 +63,7 @@ The information is synced with the [resolc-bin GitHub repository](https://github
 
 | Release | Solc Versions | SHA256 |
 |---------|---------------|--------|
+| [resolc_web.js 1.5.0+commit.2942b3a9](https://github.com/paritytech/revive/releases/download/v1.5.0/resolc_web.js) | 0.8.0 - 0.8.38 | `1dd41afea4d5e9a3...` |
 | [resolc_web.js 1.4.0+commit.ca3c7702](https://github.com/paritytech/revive/releases/download/v1.4.0/resolc_web.js) | 0.8.0 - 0.8.36 | `9a9ade0d0a669bd7...` |
 | [resolc_web.js 1.3.0+commit.fb0e9e6a](https://github.com/paritytech/revive/releases/download/v1.3.0/resolc_web.js) | 0.8.0 - 0.8.35 | `511f9b50579ff813...` |
 | [resolc_web.js 1.2.0+commit.9b22bcdc](https://github.com/paritytech/revive/releases/download/v1.2.0/resolc_web.js) | 0.8.0 - 0.8.35 | `ecd385378933dcbf...` |
@@ -84,6 +87,7 @@ The information is synced with the [resolc-bin GitHub repository](https://github
 
 | Release | Solc Versions | SHA256 |
 |---------|---------------|--------|
+| [resolc-x86_64-pc-windows-msvc.exe 1.5.0+commit.2942b3a9](https://github.com/paritytech/revive/releases/download/v1.5.0/resolc-x86_64-pc-windows-msvc.exe) | 0.8.0 - 0.8.38 | `9d40639b74686ff5...` |
 | [resolc-x86_64-pc-windows-msvc.exe 1.4.0+commit.ca3c7702](https://github.com/paritytech/revive/releases/download/v1.4.0/resolc-x86_64-pc-windows-msvc.exe) | 0.8.0 - 0.8.36 | `df97356df6ab4f87...` |
 | [resolc-x86_64-pc-windows-msvc.exe 1.3.0+commit.fb0e9e6a](https://github.com/paritytech/revive/releases/download/v1.3.0/resolc-x86_64-pc-windows-msvc.exe) | 0.8.0 - 0.8.35 | `0d0d1e1d9117b9e3...` |
 | [resolc-x86_64-pc-windows-msvc.exe 1.2.0+commit.9b22bcdc](https://github.com/paritytech/revive/releases/download/v1.2.0/resolc-x86_64-pc-windows-msvc.exe) | 0.8.0 - 0.8.35 | `8365a0a693087565...` |
